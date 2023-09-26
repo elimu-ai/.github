@@ -1,10 +1,5 @@
-## Hi, there 👋
+**What is the purpose of elimu.ai?**
+To build an educational technology that enables free personalied learning for every child on Earth.
 
-🙋‍♀️ A short introduction - what is alimu.ai all about?
-  - We aim to transform the world by providing every child on Earth with access to personalized learning.
-
-🌈 Contribution guidelines - how can the community get involved?
-  - See https://github.com/elimu-ai/wiki/blob/main/CONTRIBUTING.md
-
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-  - High-level description docs can be found at https://github.com/elimu-ai/wiki
+**Why is this technology needed?**
+Because there are hundreds of millions of children around the world who lack the necessary resources to achieve proficiency in literacy & numeracy. There simple are not enough teachers and schools available, so we should use technology to solve this global learning crisis.
