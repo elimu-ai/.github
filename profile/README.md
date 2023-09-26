@@ -1,7 +1,11 @@
-**What is the purpose of elimu.ai?**
+**What is the Massive Transformative Purpose (MTP) of elimu.ai?**
 
-- To build an educational technology that enables free personalied learning for every child on Earth.
+- To build educational technology that enables free personalized learning for every child on Earth.
 
 **Why is this technology needed?**
 
-- Because there are hundreds of millions of children around the world who lack the necessary resources to achieve proficiency in literacy & numeracy. There simple are not enough teachers and schools available, so we should use technology to solve this global learning crisis.
+- Because an estimated 330 million children of primary school age are unable to read and perform basic mathematics.
+
+**Why should we help the 330 millionc children achieve minimum proficiency levels in reading and mathematics?**
+
+- Because acquiring foundational literacy and numeracy is a basic human right.
