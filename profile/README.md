@@ -1,6 +1,6 @@
 **What is the Massive Transformative Purpose (MTP) of elimu.ai?**
 
-- Our purpose is to solve the global learning crisis—At primary level, 10% of children worldwide are not in school. That's [64 million](https://data.unicef.org/topic/education/primary-education/) children.
+- Our purpose is to help solve the global learning crisis—At primary level, 10% of children worldwide are not in school. That's [64 million](https://data.unicef.org/topic/education/primary-education/) children.
 
 **Mission**
 
