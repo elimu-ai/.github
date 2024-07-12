@@ -4,7 +4,7 @@
 
 **Mission**
 
-- Our mission is to build innovative learning software that empovers out-of-school children to _teach themselves_ basic reading📖, writing✍🏽 and math🔢 **within 6 months**.
+- Our mission is to build innovative learning software that empowers out-of-school children to _teach themselves_ basic reading📖, writing✍🏽 and math🔢 **within 6 months**.
 
 **Free and Open Source Software (FOSS)**
 
